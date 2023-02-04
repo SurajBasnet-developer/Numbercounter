@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Numbercounter/static/css/main.65543c26.css",
+    "main.js": "/Numbercounter/static/js/main.416b698e.js",
+    "index.html": "/Numbercounter/index.html",
+    "main.65543c26.css.map": "/Numbercounter/static/css/main.65543c26.css.map",
+    "main.416b698e.js.map": "/Numbercounter/static/js/main.416b698e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65543c26.css",
+    "static/js/main.416b698e.js"
+  ]
+}
