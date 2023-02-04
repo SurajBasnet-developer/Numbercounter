@@ -1,0 +1,22 @@
+.button {
+  background-color: lightgreen;
+  color: crimson;
+  padding: 15px 28px;
+  text-align: center;
+  font-size: 25px;
+  border: none;
+  margin: 4px;
+  border-radius: 6px;
+}
+
+div {
+  text-align: center;
+  background-color: beige;
+  margin: 14px 30px 40px;
+}
+
+h3 {
+  background-color: beige;
+  border-radius: 5px;
+  color: red;
+}
